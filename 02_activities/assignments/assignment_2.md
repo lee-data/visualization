@@ -13,44 +13,44 @@
       ```
       Please see my answer below: 
 
-# GOOD VISUALITION
-The visualization I choose is the Resource Trade interactive dashboard from https://resourcetrade.earth/.  The dashboard allows users to explore trade flows between over 200 countries and territories, covering more than 1,350 different types of natural resources and products.  
-Please see below my assessment based on its aesthetic, substantive, and perceptual qualities:
-
-### Aesthetic Quality:
-•	Strengths:
-o	Clean and professional design
-o	Harmonious color palette that enhances visual appeal.
-o	Distinct colors (red for importer, blue for exporter) in combination with sizes (narrow for exporter, wide for importer) increases comprehension. 
-o	Interactive elements, such as hover-over details and clickable regions, provide an engaging user experience.
-o	Users can also zoom in on a particular region, country, market group, type of commodities, and year, in a consistent design and color palette. 
-•	Weaknesses:
-o	Colorblind users may find challenges navigating this website. (*Note: However, the designer has thoughtfully included sizes (narrow for exporter, wide for importer) to help improve accessibility.)
-o	The density of information can be overwhelming for first-time users, and would require a small learning curve to navigate effectively. (*Note: However, this is expected. And it is admirable that the visualization designers can include many complex information in this dashboard and the navigation is straight-forward too.)
-### Substantive Quality:
-•	Strengths:
-o	It allows users to explore trade flows between over 200 countries and territories, covering more than 1,350 different types of natural resources and products. (Reference: https://resourcetrade.earth/about.) 
-•	Weaknesses:
-o	The dashboard presents data only up to 2024.  
-o	Some data categories are broad, which might obscure specific details about certain commodities or trade relationships. (*Note: However, this is expected, because there are 1,350 types of natural resources and products, across 200 countries.)
-o	The reliance on self-reported data from countries could introduce inconsistencies or inaccuracies.
-### Perceptual Quality:
-•	Strengths:
-o	The visualization effectively communicates complex trade relationships through intuitive maps and charts, facilitating user understanding.
-o	Interactive features, such as filtering by commodity, country, or year, enable users to tailor the data view to their interests, enhancing clarity.
-•	Weaknesses:
-o	The abundance of features and information may lead to cognitive overload, and can be overwhelming for first-time users. 
+        # GOOD VISUALITION
+        The visualization I choose is the Resource Trade interactive dashboard from https://resourcetrade.earth/.  The dashboard allows users to explore trade flows between over 200 countries and territories, covering more than 1,350 different types of natural resources and products.  
+        Please see below my assessment based on its aesthetic, substantive, and perceptual qualities:
+        
+        ### Aesthetic Quality:
+        •	Strengths:
+        o	Clean and professional design
+        o	Harmonious color palette that enhances visual appeal.
+        o	Distinct colors (red for importer, blue for exporter) in combination with sizes (narrow for exporter, wide for importer) increases comprehension. 
+        o	Interactive elements, such as hover-over details and clickable regions, provide an engaging user experience.
+        o	Users can also zoom in on a particular region, country, market group, type of commodities, and year, in a consistent design and color palette. 
+        •	Weaknesses:
+        o	Colorblind users may find challenges navigating this website. (*Note: However, the designer has thoughtfully included sizes (narrow for exporter, wide for importer) to help improve accessibility.)
+        o	The density of information can be overwhelming for first-time users, and would require a small learning curve to navigate effectively. (*Note: However, this is expected. And it is admirable that the visualization designers can include many complex information in this dashboard and the navigation is straight-forward too.)
+        ### Substantive Quality:
+        •	Strengths:
+        o	It allows users to explore trade flows between over 200 countries and territories, covering more than 1,350 different types of natural resources and products. (Reference: https://resourcetrade.earth/about.) 
+        •	Weaknesses:
+        o	The dashboard presents data only up to 2024.  
+        o	Some data categories are broad, which might obscure specific details about certain commodities or trade relationships. (*Note: However, this is expected, because there are 1,350 types of natural resources and products, across 200 countries.)
+        o	The reliance on self-reported data from countries could introduce inconsistencies or inaccuracies.
+        ### Perceptual Quality:
+        •	Strengths:
+        o	The visualization effectively communicates complex trade relationships through intuitive maps and charts, facilitating user understanding.
+        o	Interactive features, such as filtering by commodity, country, or year, enable users to tailor the data view to their interests, enhancing clarity.
+        •	Weaknesses:
+        o	The abundance of features and information may lead to cognitive overload, and can be overwhelming for first-time users. 
 
       ```
     - How could this data visualization have been improved?  
       ```
       ### Suggestions for Improvement:
-1.	Enhance Accessibility:
-o	To improve accessibility for color-blind audience, we may additionally create an ‘accessibility’ color palettes in the dashboard settings, and allow users to switch between default viewing and accessibility viewing. 
-2.	Simplify User Interface:
-o	The user-interface in my view is easy to navigate, but there are readers who maybe less technical. We may optionally introduce guided tutorials to assist them.  
-3.	Improve Data Granularity:
-o	We may optionally introduce metadata or data quality indicators to inform users about the reliability and sources of the data presented. (*Note: Although the tradeoff for that could be cognitive overload, adding information to an already information-dense dashboard.)
+        1.	Enhance Accessibility:
+        o	To improve accessibility for color-blind audience, we may additionally create an ‘accessibility’ color palettes in the dashboard settings, and allow users to switch between default viewing and accessibility viewing. 
+        2.	Simplify User Interface:
+        o	The user-interface in my view is easy to navigate, but there are readers who maybe less technical. We may optionally introduce guided tutorials to assist them.  
+        3.	Improve Data Granularity:
+        o	We may optionally introduce metadata or data quality indicators to inform users about the reliability and sources of the data presented. (*Note: Although the tradeoff for that could be cognitive overload, adding information to an already information-dense dashboard.)
       
       ```
 
