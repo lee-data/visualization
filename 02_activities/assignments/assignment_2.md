@@ -54,9 +54,10 @@
       
       ```
 
+    - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
 
 
-```
+        ```
       
         BAD VISUALIZATION
         The visualization I chose is the violin plots from Andrew Wheeler’s blog post, "Bean plots in SPSS". Andrew demonstrated how to create bean plots in SPSS using a synthetic dataset of 1,000 observations across five categories (“cat 0” to “cat 4”). His focus was on the technical creation of bean plots, not their presentation or interpretative clarity, which is why labels, legends, and titles were omitted.
@@ -84,7 +85,9 @@
             o	Patterns and group comparisons are difficult to discern.
 
       ```
-    - How could this data visualization have been improved?  
+
+- How could this data visualization have been improved? 
+
       ```
       Suggestions for Improvement
         1.	Simplify Design: 
