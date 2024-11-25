@@ -7,18 +7,60 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-        Your answer...
+        Good Visualization: Resource Trade Interactive Dashboard
+        
+        Accessibility
+        
+        •	Strengths: The dashboard uses distinct colors and sizes (e.g., red for importers, blue for exporters, varying line widths) to aid comprehension. Interactive features like zooming and filtering enhance usability.
+        •	Weaknesses: It lacks a colorblind-friendly palette, making navigation challenging for visually impaired users. Small text and densely packed information may also hinder accessibility.
 
+        Reproducibility
+        •	Strengths: Data sources and the methodology for generating the dashboard are transparent, enabling reproducibility.
+        •	Weaknesses: The visualization relies on proprietary data processing, making it harder for individuals to recreate independently.
+
+        Equity
+        •	Strengths: The dashboard includes data from over 200 countries, ensuring global representation.
+        •	Weaknesses: The reliance on self-reported data could lead to biases or inconsistencies, particularly for countries with less transparent reporting systems.
 
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
-        Your answer...
+        Suggestions for Improvements
+        1.	Add a colorblind-friendly palette in the settings.
+        2.	Include a guided tutorial to support first-time users.
+        3.	Provide metadata to ensure transparency about data quality and sources.
 
+        ```
+
+
+    - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
+        ```
+        Bad Visualization: Violin Plots in "Bean Plots in SPSS"
+
+        Accessibility
+        •	Strengths: The concept of violin plots (combining density and boxplots) is visually appealing.
+        •	Weaknesses: The lack of titles, labels, and legends makes interpretation difficult. The use of dots instead of bar rugs further complicates readability for diverse audiences.
+
+       Reproducibility
+        •	Strengths: Andrew Wheeler describes the technical process of creating the plots, making it reproducible in SPSS.
+        •	Weakness: Unlike Python and VS Code, SPSS application costs money and is therefore not accessible to diverse audiences, reducing reproducibility.
+
+        Equity
+        •	Strengths: The visualization treats all categories (e.g., “cat 0” to “cat 4”) equally, showing balanced distributions.
+        •	Weaknesses: The lack of annotation prevents insights into category differences or trends, especially for non-technical audiences.
+
+        ```
+    - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
+        ```
+        Improvements
+        1.	Add labels, titles, and legends to improve accessibility.
+        2.	Introduce statistical summaries (e.g., medians, quartiles) for clarity.
+        3.	Add Python codes for improved accessibility and reproducibility.
 
 
         ```
+        
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
 
