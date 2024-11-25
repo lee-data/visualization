@@ -84,24 +84,24 @@
             o	No meaningful titles, labels, or annotations to explain the plots’ purpose or statistical properties.
             o	Patterns and group comparisons are difficult to discern.
 
-      ```
+          ```
 
-- How could this data visualization have been improved? 
-
-      ```
-      Suggestions for Improvement
-        1.	Simplify Design: 
-        o	    Replace data points with bar rugs to reduce visual clutter.
-        2.	Enhance Clarity: 
-        o	    Add statistical summaries like medians or quartiles, either in the same plot or separately to avoid overcrowding.
-        3.	Add Context: 
-            o	Include titles, labels, and legends for color and shading explanations.
-            o	Use captions to emphasize key takeaways.
-        4.	Consider Alternatives: 
-        o	    Use simpler visualizations like boxplots, histograms, or dot plots, especially for non-technical audiences, to reduce cognitive load and improve comprehension.
-
-       ```
-
+    - How could this data visualization have been improved? 
+    
+          ```
+          Suggestions for Improvement
+            1.	Simplify Design: 
+            o	    Replace data points with bar rugs to reduce visual clutter.
+            2.	Enhance Clarity: 
+            o	    Add statistical summaries like medians or quartiles, either in the same plot or separately to avoid overcrowding.
+            3.	Add Context: 
+                o	Include titles, labels, and legends for color and shading explanations.
+                o	Use captions to emphasize key takeaways.
+            4.	Consider Alternatives: 
+            o	    Use simpler visualizations like boxplots, histograms, or dot plots, especially for non-technical audiences, to reduce cognitive load and improve comprehension.
+    
+           ```
+    
 
 
       
