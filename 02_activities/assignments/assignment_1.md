@@ -7,6 +7,7 @@
 - During every class, follow along with sample code from the slides. All code that you should be running in Python is formatted as follows:
   
   > If code in a slide looks like this, you should be running it to generate results.
+  
   > My answer: please refer to the jupyter notebook files uploaded to this branch.
 
 - When there are individual or group activities in submodules, make notes of answers and key points from discussions
