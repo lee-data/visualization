@@ -68,7 +68,7 @@
 
 ### **Vehicle (Delay Type 2) – Bar Plot:**
 
-### ![Vehicle (Delay Type 2) – Bar Plot](https://github.com/lee-data/visualization/blob/assignment-4/02_activities/assignments/TTC-Streetcar-Delay/Excel-Visualization/line_types_distribution%20(dark%20purple).png](https://github.com/lee-data/visualization/blob/assignment-4/02_activities/assignments/TTC-Streetcar-Delay/Python-Visualization/Vehicle%20%20-%20Bar%20plot.png)
+### ![Vehicle (Delay Type 2) – Bar Plot](https://github.com/lee-data/visualization/blob/assignment-4/02_activities/assignments/TTC-Streetcar-Delay/Python-Visualization/Vehicle%20%20-%20Bar%20plot.png)
 
 ### 
 <br>
