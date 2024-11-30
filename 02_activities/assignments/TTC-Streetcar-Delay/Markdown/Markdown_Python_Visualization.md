@@ -1,6 +1,6 @@
 # TTC Streetcar Delay
 
-## Features Distribution across dataset (between 01/2023 and 09/2024)
+## Features Distribution (by Counts) across dataset (between 01/2023 and 09/2024)
 
 ### **Delay Type – Distribution (Histogram):**
 
