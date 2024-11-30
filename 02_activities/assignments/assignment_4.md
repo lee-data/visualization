@@ -11,8 +11,8 @@
 
   ---
 
-  ## **EXCEL VISUALIZATIONS**
-> 	1) What software did you use to create your data visualization?
+>  ## **EXCEL VISUALIZATIONS**
+ 	1) What software did you use to create your data visualization?
 	*My answer:* I used Microsoft Excel to create these data visualizations. 
 
  	2) Who is your intended audience?
