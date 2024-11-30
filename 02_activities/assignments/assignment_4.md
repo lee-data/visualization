@@ -7,23 +7,107 @@
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
-    > What software did you use to create your data visualization?
+     	## **EXCEL VISUALIZATIONS**
+ 	1) What software did you use to create your data visualization?
+*My answer:* I used Microsoft Excel to create these data visualizations. 
 
-    > Who is your intended audience? 
-    
-    > What information or message are you trying to convey with your visualization? 
-    
-    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
-    
-    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
-    > How did you ensure that your data visualization is accessible?  
-    
-    > Who are the individuals and communities who might be impacted by your visualization?  
-    
-    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
-    > What ‘underwater labour’ contributed to your final data visualization product?
+ 	2) Who is your intended audience?
+ 	*My answer:* My intended audiences are transit planners at TTC and the interested public viewers – who can be either technical and non-technical audiences.
+
+ 	3) What information or message are you trying to convey with your visualization?
+ 	*My answer*: I’m trying to show the audience the frequency (counts) of different features related to delay minutes.
+
+ 	4) What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+ 	*My answer:*
+## **Substantive Principles:** 
+•	Clarity: Focused on showing streetcar delay distribution by feature names (e.g., line 505, incident Operations, etc), and ranked by frequency when possible for improved intuitiveness.
+•	Data Prioritization: Ranked features by frequency and reduced to only top features when appropriate (e.g., Top 10 Incident Types) to improve comprehension.
+
+## ** Perceptual Principles:** 
+•	Readable Labels: Made the axes labels diagonal when appropriate to prevent overlapping texts (e.g., Line Name Distribution); Added annotation to explain data labels better (e.g.,  Line Types Distribution). 
+
+•	Order of features display: Ranked features by frequency and reduced to only top features when appropriate (e.g., Top 10 Incident Types) to improve comprehension.; Ranked Time Type by order for improved comprehension (e.g., Off Peak, Morning Peak, Midday, Evening Peak). 
+•	Color Consistency: Used a single purple tone to reduce cognitive overload. 
+## **Aesthetic Principles:** 
+•	Minimal Design: Clean layout with no clutter (e.g., no gridlines, no ticks), single consistent purple tone throughout across the visualization.
+•	Professional Look: Balanced spacing, modern fonts, and visually distinct color that’s aesthetically pleasing. 
+
+ 	5) How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+*My answer:* 
+	I chose Excel to improve accessibility for wider audiences (especially non-technical audiences) and also uploaded my Excel file (with cleaned data, and visualization in it) for reproducibility. I also uploaded the note with link to download raw data from TTC.  
+ 	
+ 	6) How did you ensure that your data visualization is accessible?
+*My answer:* 
+I chose a visually distinct and intense color (purple) against a white background, with black texts at medium font size, to improve accessibility.
+ 	
+ 	7) Who are the individuals and communities who might be impacted by your visualization?
+ 	*My answer:* 
+The individuals and communities that might be impacted by my visualization include the transit planners at TTC, and people who use public transportation in Toronto (residents and visitors). 
+
+ 	8) How did you choose which features of your chosen dataset to include or exclude from your visualization?
+ 	*My answer:* 
+I did separate plots, one for each of the categories, as part of my EDA (exploratory data analysis) to see the overall features distribution in the dataset. 
+
+ 	9) What ‘underwater labour’ contributed to your final data visualization product?
+ 	*My answer:* 
+There was significant amount of effort on data pre-processing including data cleaning and feature engineering, before I could proceed to Excel visualization. (Please refer to the codes in my Python Visualization folder.)
+---
+
+ 	## **PYTHON VISUALIZATIONS**
+ 	1) What software did you use to create your data visualization?
+*My answer:* I used Python – Jupyter Notebook to create these data visualizations. 
+
+ 	2) Who is your intended audience?
+ 	*My answer:* My intended audiences are transit planners at TTC and the interested public viewers, who may need to have some knowledge in basic statistics. 
+
+ 	3) What information or message are you trying to convey with your visualization?
+ 	*My answer*: I’m trying to show the audience different angles: 
+ 	
+ 	A – The distribution of different Delay Types: 
+ 	- As histogram - to show that the ‘bucket’ selections for different Delay Types look normally distributed, and centered around Delay Type 2. 
+ 	- As a pie chart – to visualize the dominance of Delay Type 2 (normal delay, between 6-15 minutes) when compared to the entire dataset. 
+ 	
+ 	B – The dominance of different features within each Delay Type: 
+ 	- The Heatmaps for each category (e.g., Line, Location, Vehicle): to show which particular features dominate each Delay Type. 
+ 	- The Bar Plot for key categories against Delay Type 2 (the majority class): to show the frequency of the dominant categories within the majority delay type. 
+
+ 	4) What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+ 	*My answer:*
+
+## **Substantive Principles:**
+o	The heatmaps help to identify trend and highlight intensity of trend (e.g., "Operations" with Delay Type 2).
+o	The bar charts show how top features frequent within the majority delay type (normal delay, between 6-15 minutes).   
+
+## **Perceptual Principles:**
+•	Readability: Clear axis labels, legend, and ordered bars make data easy to interpret.
+•	Color Usage: 
+o	Heatmaps apply color intensity to highlight intensity of trend, across the different delay types, making it intuitive to interpret. 
+o	The Heatmaps and Bar Plots have intense colors against white background, black color texts (labels, titles), with clear data values for each feature block, and no gridlines, for improved perceptual quality. 
+
+## **Aesthetic Principles:**
+•	Minimalistic design with clean layouts (ie. No gridline) avoids distractions.
+•	Balanced spacing and modern colors ensure both visual appeal and professionalism.
+
+ 	5) How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+*My answer:* 
+	I uploaded my Python code, and shared the link to download raw data from TTC, for reproducibility.  
+
+ 	6) How did you ensure that your data visualization is accessible?
+*My answer:* 
+I chose a Viridis color palette for all plots, against a white background, with black texts at medium font size, for accessibility.
+ 	
+ 	7) Who are the individuals and communities who might be impacted by your visualization?
+ 	*My answer:* 
+The individuals and communities that might be impacted by my visualization include the transit planners at TTC, and people who use public transportation in Toronto (residents and visitors). 
+
+ 	8) How did you choose which features of your chosen dataset to include or exclude from your visualization?
+ 	*My answer:* 
+I did separate plots, one for each of the categories, as part of my EDA (exploratory data analysis) to see the features dominance across the dataset as well as within the majority delay type (normal delay, between 6-15 minutes). 
+
+ 	9) What ‘underwater labour’ contributed to your final data visualization product?
+ 	*My answer:* 
+There was significant amount of effort on data pre-processing including data cleaning and feature engineering. Please refer to the codes in my Python Visualization folder.
+
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
