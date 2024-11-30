@@ -2,7 +2,7 @@
 
 ## Features Distribution (by Counts) across dataset (between 01/2023 and 09/2024)
 
-### **Delay Type – Distribution (Histogram):**
+### **Delay Type – Distribution (by Counts) (Histogram):**
 
 ### ![Delay Type – Distribution (Histogram)](https://github.com/lee-data/visualization/blob/assignment-4/02_activities/assignments/TTC-Streetcar-Delay/Python-Visualization/Delay%20Type%20-%20Distribution%20(Histogram).png)
 
