@@ -2,9 +2,9 @@
 
 ## Features Distribution across dataset (between 01/2023 and 09/2024)
 
-<center> 
+
 ### **Day of Week – Distribution:**
-</center>
+
 
 ### ![Day of Week – Distribution](https://github.com/lee-data/visualization/blob/assignment-4/02_activities/assignments/TTC-Streetcar-Delay/Excel-Visualization/day_of_week_distribution.png)
 
