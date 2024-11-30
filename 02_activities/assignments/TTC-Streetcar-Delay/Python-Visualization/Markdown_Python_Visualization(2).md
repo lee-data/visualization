@@ -76,4 +76,4 @@
 
 ### **Vehicle (Delay Type 2) - Heatmap:**
 
-### ![Vehicle (Delay Type 2) - Heatmap](https://github.com/lee-data/visualization/blob/assignment-4/02_activities/assignments/TTC-Streetcar-Delay/Python-Visualization/Vehicle%20%20-%20Bar%20plot.png)
+### ![Vehicle (Delay Type 2) - Heatmap](https://github.com/lee-data/visualization/blob/assignment-4/02_activities/assignments/TTC-Streetcar-Delay/Python-Visualization/Vehicle%20%20-%20Heatmap.png)
