@@ -9,6 +9,7 @@
 ### ![Day of Week – Distribution](https://github.com/lee-data/visualization/blob/assignment-4/02_activities/assignments/TTC-Streetcar-Delay/Excel-Visualization/day_of_week_distribution.png)
 
 ### 
+<br>
 
 ### Line Name – Distribution:
 
