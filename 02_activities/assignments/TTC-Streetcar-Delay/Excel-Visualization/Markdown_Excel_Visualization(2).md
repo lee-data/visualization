@@ -10,20 +10,32 @@
 
 ### 
 <br>
+<br>
 
-### Line Name – Distribution:
+### **Line Name – Distribution:**
 
 ### ![Line Name – Distribution](https://github.com/lee-data/visualization/raw/assignment-4/02_activities/assignments/TTC-Streetcar-Delay/Excel-Visualization/line_name_distribution.png)
 
 ### 
+<br>
+<br>
 
-### Line Type – Distribution:
+
+### **Line Type – Distribution:**
 
 ### ![Line Type – Distribution](<https://github.com/lee-data/visualization/blob/assignment-4/02_activities/assignments/TTC-Streetcar-Delay/Excel-Visualization/line_types_distribution%20(dark%20purple).png>)
 
-### Time Type – Distribution:
+### 
+<br>
+<br>
+
+### **Time Type – Distribution:**
 
 ### ![Time Type – Distribution]( https://github.com/lee-data/visualization/blob/assignment-4/02_activities/assignments/TTC-Streetcar-Delay/Excel-Visualization/time_type_distribution.png)
+
+### 
+<br>
+<br>
 
 ### Top 10 Incident Types – Distribution:
 
